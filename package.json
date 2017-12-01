@@ -1,0 +1,13 @@
+{
+  "name": "javascript-refactor",
+  "version": "1.0.0",
+  "description": "A flawed and terrible attempt at implementing search.",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server --open=public --watch=public",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "http-server": "^0.9.0"
+  }
+}
